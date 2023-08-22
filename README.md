@@ -1,4 +1,4 @@
-# Markdown to Rich Clipboard (markdown2richtext.rb)
+# Markdown to Rich Text Clipboard (markdown2richtext.rb)
 
 Copy your Markdown content as rich-formatted text directly to your macOS clipboard with a single command.
 
