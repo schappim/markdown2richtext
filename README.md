@@ -19,7 +19,7 @@ I created this to transform markdown from ChatGPT into rich text.
 
 ```bash
 git clone https://github.com/schappim/markdown2richtext.git
-cd M2RC
+cd markdown2richtext
 ```
 
 2. Install the required gem:
