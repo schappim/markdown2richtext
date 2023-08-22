@@ -6,7 +6,7 @@ Copy your Markdown content as rich-formatted text directly to your macOS clipboa
 
 `markdown2richtext.rb` is a simple Ruby script that takes your Markdown files and copies them as rich-formatted text (RTF) onto your macOS clipboard. It's perfect for quickly pasting your Markdown content into applications that support RTF like email clients, word processors, or other documentation tools.
 
-The motivation for this is to convert markdown provided by ChatGPT into rich text.
+I created this to transform markdown from ChatGPT into rich text.
 
 ## Prerequisites
 
